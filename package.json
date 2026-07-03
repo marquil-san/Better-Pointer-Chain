@@ -1,0 +1,14 @@
+{
+  "name": "better-pointer-chain",
+  "private": true,
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "build": "pnpm -r run build",
+    "typecheck": "tsc --build"
+  },
+  "devDependencies": {
+    "typescript": "~5.9.2",
+    "prettier": "^3.8.1"
+  }
+}
